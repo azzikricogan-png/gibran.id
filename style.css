@@ -7,7 +7,7 @@
 body{
     font-family: 'segoe UI', Roboto, sans-serif;
     background: linear-gradient(135deg, #aa9393, #ffffff);
-    background-image: url(/gibran/background.jpeg);
+    background-image: url(background.jpeg);
     background-position: 1px; 
     color: #333;
     line-height: 1.6;
